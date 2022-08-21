@@ -1,4 +1,4 @@
-- Howdy, Hey, Namaste. My name is Amandeep
+- My name is Amandeep
 - Me- A curious person trying to figure out the world
 - What I do- I am a Web Developer (A Full Stack One). Also, Front End Development is my love. 
 - More- I am very interested in deploying ML models
