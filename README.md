@@ -1,7 +1,7 @@
 - My name is Amandeep
 - Me- A curious person trying to figure out the world
-- What I do- I am a Web Developer (A Full Stack One). Also, Front End Development is my love. 
-- More- I am very interested in deploying ML models
+- What I do- I am a Web Developer (A Full Stack One).
+- More- I am also a ML engineer.
 - Anything else- I make films. 
 - Email- adxtop1@gmail.com
 
